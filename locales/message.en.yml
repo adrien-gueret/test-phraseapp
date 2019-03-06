@@ -96,7 +96,9 @@ jobGuarantee:
     title: Success is more than just graduating. It's your ideal job. Guaranteed.
     video_url: "https://player.vimeo.com/video/283042066?color=7451EB"
   paths: 
-    action: See all eligible paths
+    action: See all eligible learning paths
     title: Eligible paths
   testimonial: 
     title: What our students say
+keyAddedFromPhraseApp: 
+  test: This is a test from PhraseApp!
