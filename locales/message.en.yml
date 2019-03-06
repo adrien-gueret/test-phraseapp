@@ -1,0 +1,102 @@
+--- 
+apprenticeship: 
+  advantages: 
+    diploma: French diplomas ranging from Associate's- to Master's-level
+    mentor: Weekly personal coaching sessions with a mentor who's an expert in your field
+    nocosts: Free of charge if you are less than 30 years old and/or a jobseeker in France
+    online: "100% online: work where you want, when you want and start anytime"
+    title: Benefits
+    video: Video courses and real-life projects accessible 24/7
+  discover: 
+    study: Study
+    text: "Do you want to change your career? With an apprenticeship, start a real job from day one. OpenClassrooms helps you find an employer and gets you started: no need to pay for anything. "
+    time_ratio: How does it work?
+    title: Discover apprenticeship opportunities
+    work: Work
+  faq: 
+    costs: 
+      answer: You don't have to pay anything.
+      question: How much does it cost?
+    job_placement: 
+      answer: "While OpenClassrooms will assist you with finding an apprenticeship using a career-placement coach, finding an employer to sponsor your apprenticeship is your responsibility."
+      question: Will OpenClassrooms help me find my job placement?
+    title: FAQ
+    what_companies: 
+      answer: Companies love apprenticeships! Large employers such as Capgemini already employ former OpenClassrooms students.
+      question: What do companies think about apprenticeships?
+    where: 
+      answer: "Your training is 100% online and you can learn from the comfort of your home! You will benefit from a remote, individual mentor session each week. On top of this, you will spend time on-site working for your employer."
+      question: Where does the training take place?
+    who: 
+      answer: Anyone who has the right to work in France aged 16–29 and/or jobseekers can apply. There may be others outside of these basic qualifications that may qualify. 
+      answer_end: " "
+      link_text: Learn more here
+      question: Who can apply?
+  header: 
+    button: Apply now
+    intro: Start an apprenticeship with OpenClassrooms and become future-proof. Your 100% online training will earn you a diploma and is 100% funded by your employer.
+    title: Have a job from day one
+  how_it_works: 
+    apply: 
+      description: Apply for an apprenticeship by completing the apprenticeship request form. We'll validate your project with you. 
+      title: Apply now
+    diploma: 
+      description: Boost your career with a professional skills-based diploma and significant work experience.
+      title: Earn your diploma
+    experience: 
+      description: Earn money from day one by working for a real company. Learn valuable skills by building hands-on projects and kickstart your new career. 
+      title: "Learn online, acquire real work experience"
+    find_company: 
+      description: We help you find a company willing to hire you as an apprentice in the career path you've chosen. A career-coach works with you every week providing help and guidance in your hunt for apprenticeship.
+      title: Find a company with the help of a coach
+    intro: "Your path is personalized, you can start when you want. Here are your next steps:"
+    title: How does it work?
+  meta: 
+    description: Start working on the first day of your studies! OpenClassrooms connects students with companies seeking apprentices.
+    og_description: Start working on the first day of your studies! OpenClassrooms connects students with companies seeking apprentices.
+    og_title: Apprenticeships through OpenClassrooms
+    title: Apprenticeship training
+    twitter_account: "@OpenClassrooms"
+    twitter_description: A quality education and a job on the first day of your studies! OpenClassrooms connects students with companies seeking apprentices.
+    twitter_title: Discover apprenticeships through OpenClassrooms
+jobGuarantee: 
+  description: 
+    block1: 
+      content: "Our paths are calibrated to meet employer needs, so that you can find a job right after graduating."
+      title: You will train for an in-demand job
+    block2: 
+      content: "With the help of a mentor, you will complete practical projects which will allow you to structure your professional skills. The knowledge you acquire can be immediately applied to the target job within any company."
+      title: You will be operational and ready to work right away
+    block3: 
+      content: "We will teach you how to become an ideal candidate through 16 career-focus courses as well as weekly, individualized support from a dedicated mentor."
+      title: You will understand how to highlight your professional experience
+    title: We will help you become a desirable candidate
+  faq: 
+    id1: 
+      content: All of <a href="/%lang%/paths">OpenClassrooms' degree- or diploma-awarding paths</a> are eligible for the Job Guarantee. Without exception.
+      title: Which paths are covered by the Job Guarantee?
+    id2: 
+      content: <ul><li>You must have earned an OpenClassrooms degree or diploma.</li><li>You are at least 18 years old and have the legal right to work in your country of residence for a period of at least 12 months.</li><li>You are actively looking for a job.</li><li>You are mobile and could find and accept a job anywhere in your country of residence.</li></ul>
+      title: Who qualifies for the Job Guarantee?
+    id3: 
+      content: The Job Guarantee is completely free of charge.
+      title: Do you have to pay to be covered by the Job Guarantee?
+    id4: 
+      content: You must provide evidence that you are actively seeking work during the six-month period after you graduate.
+      title: "During your job search, what conditions do you need to satisfy?"
+    id5: 
+      content: "You must actively seek work once you have been graduated. If you have not found a contract of at least six months' duration within the six-month period following your graduation, you can ask for a full refund. The refund is limited to the estimated duration of the path (for example, 12 months for the Web development - Frontend path)."
+      title: How can you apply for a refund and how much money will you get back?
+    id6: 
+      content: "Read our <a href=\"/%lang%/terms-of-sale#job-guarantee\">Terms of Sale</a>."
+      title: Where can I find more information about the Job Guarantee?
+    title: FAQs
+  header: 
+    intro: "Our graduates go on to achieve great things and find professional success. We are committed to your success too: you will find work within the six months following the completion of your degree or diploma, or you will get a refund. It's that simple."
+    title: Success is more than just graduating. It's your ideal job. Guaranteed.
+    video_url: "https://player.vimeo.com/video/283042066?color=7451EB"
+  paths: 
+    action: See all eligible paths
+    title: Eligible paths
+  testimonial: 
+    title: What our students say

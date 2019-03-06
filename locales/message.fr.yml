@@ -1,0 +1,102 @@
+--- 
+apprenticeship: 
+  advantages: 
+    diploma: Un diplôme de niveau Bac+2 à Bac+5 reconnu par l'État français.
+    mentor: Accompagnement personnalisé par un mentor expert chaque semaine.
+    nocosts: Aucun frais à engager si vous avez jusqu'à 29 ans inclus ou si vous êtes demandeur d'emploi.
+    online: "100% en ligne. Aucun déplacement nécessaire, démarrage toutes les semaines."
+    title: Les avantages du programme
+    video: "Cours en vidéo et projets professionnalisants accessibles 24h/24, 7j/7."
+  discover: 
+    study: En formation
+    text: "Vous aimeriez découvrir un nouveau métier ? Etudiez en alternance et démarrez avec un emploi dès le 1er jour. OpenClassrooms, premier campus diplômant 100% en ligne, vous aide à trouver votre entreprise en alternance gratuitement. Vous n'avez aucun frais à engager."
+    time_ratio: Un rythme en alternance
+    title: Découvrez l'alternance OpenClassrooms
+    work: En entreprise
+  faq: 
+    costs: 
+      answer: Vous n'avez rien à débourser.
+      question: Combien ca coûte ?
+    job_placement: 
+      answer: "Vous devez d'abord postuler à notre programme. Une fois que vous êtes admis, l'unique démarche que vous devez entreprendre est de trouver votre entreprise d'accueil, avec l'aide de votre coach d'insertion professionnelle OpenClassrooms. C'est gratuit !"
+      question: Quelles démarches dois-je entreprendre pour devenir alternant ?
+    title: FAQ
+    what_companies: 
+      answer: "Oui ! Capgemini et Caisse d'Epargne ont par exemple déjà accueilli de nombreux étudiants d'OpenClassrooms. Quant au diplôme, son niveau Bac+3/4 est reconnu par l'Etat."
+      question: Est-ce reconnu par les entreprises ?
+    where: 
+      answer: "La formation se déroule entièrement en ligne, en alternance avec votre travail en entreprise. Vous bénéficiez du suivi personnel d'un mentor chaque semaine. Vous pouvez donc vous former de chez vous ! "
+      question: Où a lieu la formation ?
+    who: 
+      answer: "Toute personne ayant le droit de travailler en France entre 16 et 29 ans inclus, ou alors demandeur d'emploi, peut postuler. D'autres profils peuvent également accéder à l'alternance, plus d'informations "
+      answer_end: .
+      link_text: ici
+      question: Qui peut en bénéficier ?
+  header: 
+    button: Postuler maintenant
+    intro: "Avec l'alternance OpenClassrooms, commencez une nouvelle carrière sur un métier passionnant. Votre formation 100% en ligne est diplômante et entièrement financée par l'entreprise."
+    title: Un emploi dès le 1er jour
+  how_it_works: 
+    apply: 
+      description: Remplissez notre formulaire de demande de formation en alternance. Nous validons votre projet professionnel avec vous.
+      title: Postulez !
+    diploma: 
+      description: Boostez votre carrière avec un diplôme reconnu basé sur des projets professionnalisants et votre expérience en entreprise.
+      title: Obtenez votre diplôme
+    experience: 
+      description: "Construisez votre carrière dès le premier jour. Apprenez un métier sur le terrain, tout en percevant un salaire. En parallèle, chaque semaine, suivez la formation OpenClassrooms chez vous."
+      title: Formez-vous en alternance
+    find_company: 
+      description: Nous vous accompagnons dans votre recherche d'entreprises. Vous serez suivi de près par un coach qui vous aidera à réussir vos entretiens !
+      title: Trouvez une entreprise avec l'aide d'un coach
+    intro: "La formation étant personnalisée, elle est ouverte toute l'année et peut démarrer toutes les semaines."
+    title: Comment ça marche ?
+  meta: 
+    description: "Un emploi dès votre premier jour d’études ! OpenClassrooms met en relation, élèves et entreprises pour des formations diplômantes en alternance."
+    og_description: Un emploi dès votre premier jour d’études ! OpenClassrooms met en relation élèves et entreprises pour des formations diplômantes en alternance.
+    og_title: Alternance chez OpenClassrooms
+    title: Formation en alternance
+    twitter_account: "@OCFrance"
+    twitter_description: Une formation privilégiée et un emploi dès votre premier jour d’études ! OpenClassrooms met en relation élèves et entreprises pour des formations diplômantes en alternance.
+    twitter_title: Découvrez l’alternance chez OpenClassrooms
+jobGuarantee: 
+  description: 
+    block1: 
+      content: Nos formations correspondent aux besoins des employeurs afin que vous trouviez un emploi rapidement après l'obtention de votre diplôme.
+      title: Vous vous formez à un métier qui recrute
+    block2: 
+      content: "Avec l'aide d'un mentor, vous réalisez des projets concrets qui structurent vos compétences professionnelles. Vous acquérez un savoir-faire immédiatement transposable en entreprise."
+      title: Vous êtes directement opérationnel
+    block3: 
+      content: Nous vous apprenons à devenir le candidat idéal grâce à 16 cours très pratiques et à l'accompagnement hebdomadaire d'un mentor spécialisé.
+      title: Vous savez valoriser votre parcours professionnel
+    title: Nous faisons de vous un candidat recherché
+  faq: 
+    id1: 
+      content: Tous les <a href="/%lang%/paths">parcours diplômants</a> d'OpenClassrooms sont éligibles à l'Emploi Garanti. Sans exception.
+      title: Quels sont les parcours compris dans ce dispositif ?
+    id2: 
+      content: <ul><li>Vous êtes diplômé d'un parcours OpenClassrooms.</li><li> Vous avez 18 ans et plus.</li><li>Vous avez une autorisation légale pour travailler à votre lieu de résidence pour au moins douze mois.</li><li>Vous êtes mobile dans votre pays de résidence.</li></ul>
+      title: Qui peut bénéficier de l'Emploi Garanti ?
+    id3: 
+      content: Ce dispositif est complètement gratuit.
+      title: Le dispositif Emploi Garanti est-il payant ?
+    id4: 
+      content: "Vous devez engager des démarches régulières de recherche d'emploi pendant les 6 mois suivant l'obtention de votre diplôme, et être en mesure de prouver ces démarches."
+      title: Quelles sont les conditions à remplir pendant la période de recherche d'emploi ?
+    id5: 
+      content: "Vous devez activement rechercher un emploi après votre diplôme. Si, dans les 6 mois suivant l'obtention de votre diplôme, vous n'avez pas trouvé de CDI ou de CDD d'une durée minimum de 6 mois, vous pouvez demander un remboursement à la hauteur du montant total que vous avez payé ; ce dans la limite de la durée moyenne constatée du parcours (par exemple 12 mois maximum pour le parcours Chef de projet Multimédia)."
+      title: Le remboursement s'effectue sur quelles bases et quel montant ?
+    id6: 
+      content: "Il vous suffit de consulter nos <a href=\"/%lang%/terms-of-sale#job-guarantee\">Conditions Générales de Vente</a>."
+      title: Où trouver plus d’informations sur l’Emploi Garanti ?
+    title: Questions fréquentes
+  header: 
+    intro: "Nos diplômés connaissent une belle réussite professionnelle. Nous nous engageons à ce qu'il en soit de même pour vous : vous trouvez un emploi dans les 6 mois qui suivent votre diplôme ou nous vous remboursons votre parcours. Tout simplement."
+    title: "Votre réussite, c'est bien plus qu'un diplôme. C'est un emploi fait pour vous. Garanti."
+    video_url: "https://player.vimeo.com/video/210912031?color=7451EB"
+  paths: 
+    action: Voir tous les parcours concernés
+    title: Parcours concernés
+  testimonial: 
+    title: Nos étudiants témoignent
