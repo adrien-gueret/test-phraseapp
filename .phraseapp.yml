@@ -1,0 +1,13 @@
+phraseapp:
+  access_token: 4d4392e77673ce895d67ea4f8113002daeca91ff614bb41051711263980917af
+  project_id: 16e80b0439ef4424cf83b8560c55b84e
+  push:
+    sources:
+    - file: ./locales/message.<locale_code>.yml
+      params:
+        file_format: yml_symfony2
+  pull:
+    targets:
+    - file: ./locales/message.<locale_code>.yml
+      params:
+        file_format: yml_symfony2
